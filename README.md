@@ -18,5 +18,6 @@ Tested to work in:
 Not guaranteed to work on Unity 2019 and higher. However, some tweaks exist that can help it work: https://www.youtube.com/watch?v=XSOhkbO8xEA
 
 
-Disclaimer: I installed the **Standard Assets** package from my Unity Assets library and I have repackaged into a `.unitypackage` so it to be importable via `Assets` > `Import Package` > `Custom package...`.
+## How?
+I installed the **Standard Assets** package from my Unity Assets library and I have **repackaged** them into an importable `.unitypackage` file, so they can be imported via `Assets` > `Import Package` > `Custom package...`.
 

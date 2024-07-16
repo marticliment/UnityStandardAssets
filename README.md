@@ -15,7 +15,7 @@ Once downloaded, they can be added to Unity following the usual importing proces
 Tested to work in:
  - Unity 2018 (latest release)
 
-Not guaranteed to work on Unity 2019 and higher. However, some tweaks exist that can help it work: https://www.youtube.com/watch?v=XSOhkbO8xEA
+Not guaranteed to work on Unity 2019 and higher. However, some tweaks exist that can help them work: https://www.youtube.com/watch?v=XSOhkbO8xEA
 
 
 ## How?
